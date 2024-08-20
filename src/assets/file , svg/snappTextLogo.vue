@@ -17,7 +17,3 @@
     </g>
   </svg>
 </template>
-
-<script></script>
-
-<style></style>
