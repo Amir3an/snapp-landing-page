@@ -1,5 +1,5 @@
 <template>
-  <nav class="flex w-[100%] h-24 bg-white shadow-md">
+  <nav class="flex w-[100%] fixed h-24 bg-white shadow-md">
     <ul class="flex mr-[10%] font-vazir justify-center items-center">
       <a class="cursor-pointer text-gray-500 mr-7"><Snapp /></a>
       <div
