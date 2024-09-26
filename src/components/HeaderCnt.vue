@@ -1,6 +1,6 @@
 <template>
   <nav class="flex w-[100%] fixed h-24 bg-white shadow-md">
-    <ul class="flex mr-[10%] font-vazir justify-center items-center">
+    <ul class="flex mr-[10%] font-iran-sans justify-center items-center">
       <a class="cursor-pointer text-gray-500 mr-7"><Snapp /></a>
       <div
         @mouseleave="hideShowList()"
@@ -10,11 +10,11 @@
           <a @mouseover="showList()" class="cursor-pointer text-gray-500"
             >سوپراپ اسنپ</a
           >
-          <span><DownArrow class="mr-3" /></span>
+          <!-- <span><DownArrow class="mr-3" /></span> -->
         </div>
         <ul
           ref="listVisible"
-          class="text-right duration-150  opacity-0 absolute top-7 pr-4 -right-5 bg-white rounded-lg border-1 border-gray-200 py-2 w-40"
+          class="text-right duration-150 opacity-0 absolute top-7 pr-4 -right-5 bg-white rounded-lg border-1 border-gray-200 py-2 w-40"
         >
           <li
             class="mt-2 cursor-pointer text-gray-500 hover:text-green-500 hover:font-bold transition-text duration-200 w-fit"
@@ -87,7 +87,9 @@
         class="text-gray-500 relative h-[100%] mt-[4.50rem] mr-6"
       >
         <div class="flex items-center">
-          <a @mouseover="showList2()"  class="cursor-pointer text-gray-500 mr-3">درباره اسنپ</a>
+          <a @mouseover="showList2()" class="cursor-pointer text-gray-500 mr-3"
+            >درباره اسنپ</a
+          >
           <span><DownArrow class="mr-3" /></span>
         </div>
         <ul
@@ -116,12 +118,11 @@
 </template>
 <script>
 import Snapp from "@/assets/file , svg/snappTextLogo.vue";
-import DownArrow from "@/assets/file , svg/down-arrow.vue";
+// import DownArrow from "@/assets/file , svg/down-arrow.vue";
 
 export default {
   components: {
     Snapp,
-    DownArrow,
   },
   data() {},
   methods: {
@@ -150,7 +151,7 @@ export default {
 </script>
 <style scoped>
 @font-face {
-  font-family: Vazir;
-  src: url("@/assets/font/Vazir-FD-WOL.ttf");
+  font-family: iran-sans;
+  src: url("../assets/font/irsans.ttf");
 }
 </style>
