@@ -7,7 +7,7 @@
         تجربه‌ی زندگی راحت‌تر، سریع‌تر و به‌صرفه‌تر<br />
         با سوپراپلیکیشن اسنپ!
       </p>
-      <p class="text-right mt-10 text-white text-xl">
+      <p class="text-right mt-10 text-white text-2xl">
         از درخواست خودرو گرفته تا سفارش غذا، خرید سوپرمارکتی، خرید بلیط سفر،<br />
         رزرو هتل و ... را میتوانید با اسنپ انجام دهید.
       </p>
@@ -15,11 +15,11 @@
       <div class="flex w-[90%] mt-12">
         <input
           type="text"
-          class="w-[50%] h-12 bg-fixed bg-green-600 border-b-1 border-white cursor-text"
+          class="w-[50%] h-12 text-xl bg-fixed bg-green-600 border-b-1 border-white cursor-text"
           placeholder="09123456789"
         />
         <button
-          class="w-[30%] h-11 rounded-lg font-semibold text-green-400 bg-white mr-4"
+          class="w-[30%] text-xl h-11 rounded-lg font-semibold text-green-400 bg-white mr-4"
         >
           ارسال لینک
         </button>
