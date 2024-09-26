@@ -1,5 +1,7 @@
 <template>
-  <div class="flex items-center justify-evenly h-[524px] bg-green-600">
+  <div
+    class="flex font-yekan items-center justify-evenly h-[524px] bg-green-600"
+  >
     <div class="w-[50%] pr-72">
       <p class="text-right font-bold text-white text-4xl">
         تجربه‌ی زندگی راحت‌تر، سریع‌تر و به‌صرفه‌تر<br />
@@ -34,9 +36,4 @@
 export default {};
 </script>
 
-<style scoped>
-@font-face {
-  font-family: iran-sans;
-  src: url("../assets/font/irsans.ttf");
-}
-</style>
+<style scoped></style>

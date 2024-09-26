@@ -23,7 +23,7 @@ module.exports = {
         1: "1px",
       },
       fontFamily: {
-        vazir: ["Vazir"],
+        yekan: ["W_yekan"],
       },
       colors: {
         customColor: {
