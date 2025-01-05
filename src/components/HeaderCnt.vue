@@ -95,6 +95,8 @@
             @mouseover="showList2()"
             class="cursor-pointer text-xl text-gray-500 mr-3"
             >درباره اسنپ
+
+            <arrowDown />
           </a>
           <span><DownArrow class="mr-3" /></span>
         </div>
@@ -124,11 +126,12 @@
 </template>
 <script>
 import Snapp from "@/assets/file , svg/snappTextLogo.vue";
-import DownArrow from "@/assets/file , svg/aroow-down.vue";
+import arrowDown from "@/assets/file , svg/aroow-down.vue";
 
 export default {
   components: {
     Snapp,
+    arrowDown
   },
   data() {},
   methods: {
