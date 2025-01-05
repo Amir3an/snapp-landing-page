@@ -1,8 +1,8 @@
 <template>
   <svg
-    fill="#000000"
-    height="20px"
-    width="20px"
+    fill="#707070"
+    height="12"
+    width="12"
     version="1.1"
     id="Layer_1"
     xmlns="http://www.w3.org/2000/svg"
