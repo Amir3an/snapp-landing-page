@@ -94,8 +94,8 @@
           <a
             @mouseover="showList2()"
             class="cursor-pointer text-xl text-gray-500 mr-3"
-            >درباره اسنپ</a
-          >
+            >درباره اسنپ
+          </a>
           <span><DownArrow class="mr-3" /></span>
         </div>
         <ul
