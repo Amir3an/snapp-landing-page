@@ -95,7 +95,6 @@
             @mouseover="showList2()"
             class="cursor-pointer text-xl text-gray-500 mr-3"
             >درباره اسنپ
-
           </a>
           <span><arrowDown class="mr-3" /></span>
         </div>
