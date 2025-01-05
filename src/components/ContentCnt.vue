@@ -2,7 +2,7 @@
   <div
     class="flex font-yekan items-center justify-evenly h-[524px] bg-green-600"
   >
-    <div class="w-[50%] pr-72">
+    <div class="w-[50%] pr-72 mt-10">
       <p class="text-right font-bold text-white text-4xl">
         تجربه‌ی زندگی راحت‌تر، سریع‌تر و به‌صرفه‌تر<br />
         با سوپراپلیکیشن اسنپ!
@@ -16,7 +16,7 @@
         <input
           type="text"
           class="w-[50%] h-12 text-xl bg-fixed bg-green-600 border-b-1 border-white cursor-text"
-          placeholder="09123456789"
+          placeholder="09×××××6789"
         />
         <button
           class="w-[30%] text-xl h-11 rounded-lg font-semibold text-green-400 bg-white mr-4"
