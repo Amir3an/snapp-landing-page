@@ -124,7 +124,7 @@
 </template>
 <script>
 import Snapp from "@/assets/file , svg/snappTextLogo.vue";
-// import DownArrow from "@/assets/file , svg/down-arrow.vue";
+import DownArrow from "@/assets/file , svg/aroow-down.vue";
 
 export default {
   components: {
