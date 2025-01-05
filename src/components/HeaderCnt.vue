@@ -131,7 +131,7 @@ import arrowDown from "@/assets/file , svg/aroow-down.vue";
 export default {
   components: {
     Snapp,
-    arrowDown
+    arrowDown,
   },
   data() {},
   methods: {
