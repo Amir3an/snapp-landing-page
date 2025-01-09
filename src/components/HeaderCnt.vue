@@ -1,6 +1,6 @@
 <template>
   <nav class="flex font-yekan w-[100%] fixed h-24 bg-white shadow-md">
-    <ul class="flex mr-[10%] font-iran-sans justify-center items-center">
+    <ul class="flex mr-[10%] font-Vazirs justify-center items-center">
       <a class="cursor-pointer text-gray-500 mr-7"><Snapp /></a>
       <div
         @mouseleave="hideShowList()"
@@ -162,7 +162,7 @@ export default {
 </script>
 <style scoped>
 @font-face {
-  font-family: iran-sans;
+  font-family: Vazir;
   src: url("../assets/font/irsans.ttf");
 }
 </style>
