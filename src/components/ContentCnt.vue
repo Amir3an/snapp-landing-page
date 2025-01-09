@@ -26,7 +26,7 @@
       </div>
 
       <button
-        class="w-[60%] mt-10 border-1 border-white font-bold text-white rounded-md"
+        class="w-[45%] py-3 mt-10 border-1 border-white font-bold text-white rounded-md"
       >
         ورود به وب اپلیکیشن اسنپ
       </button>
