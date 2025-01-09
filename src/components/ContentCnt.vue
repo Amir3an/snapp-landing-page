@@ -24,6 +24,12 @@
           ارسال لینک
         </button>
       </div>
+
+      <button
+        class="w-[60%] mt-10 border-1 border-white font-bold text-white rounded-md"
+      >
+        ورود به وب اپلیکیشن اسنپ
+      </button>
     </div>
 
     <img
