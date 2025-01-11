@@ -163,7 +163,8 @@ export default {
 };
 </script>
 <style scoped>
-div , a {
+div,
+a {
   font-family: Vazir;
 }
 </style>
