@@ -42,4 +42,8 @@
 export default {};
 </script>
 
-<style scoped></style>
+<style scoped>
+div {
+  font-family: Vazir;
+}
+</style>
