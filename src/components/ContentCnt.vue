@@ -17,7 +17,7 @@
         <div class="flex w-[90%] mt-12">
           <input
             type="text"
-            class="w-[50%] h-12 text-xl bg-fixed bg-green-600 border-b-1 border-white cursor-text outline-none"
+            class="w-[50%] h-12 text-xl bg-fixed bg-green-600 border-b-1 border-white cursor-text outline-none text-white"
             placeholder="09×××××6789"
           />
           <button
