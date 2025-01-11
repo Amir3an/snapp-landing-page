@@ -49,4 +49,9 @@ export default {};
 div {
   font-family: Vazir;
 }
+
+input::placeholder {
+  color: #fff;
+  opacity: 0.7;
+}
 </style>
