@@ -2,7 +2,7 @@
   <div
     class="flex font-yekan items-center justify-evenly h-[524px] bg-green-600"
   >
-    <div class="w-[50%] pr-72 mt-10">
+    <div class="flex items-center flex-col justify-center w-[50%] mt-12">
       <p class="text-right font-bold text-white text-4xl">
         تجربه‌ی زندگی راحت‌تر، سریع‌تر و به‌صرفه‌تر<br />
         با سوپراپلیکیشن اسنپ!
