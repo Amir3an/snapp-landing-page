@@ -83,7 +83,9 @@
       <a class="cursor-pointer text-[15px] text-gray-500 mr-10"
         >ثبت نام راننده اسنپ</a
       >
-      <a class="cursor-pointer text-[15px] text-gray-500 mr-7">باشگاه رانندگان</a>
+      <a class="cursor-pointer text-[15px] text-gray-500 mr-7"
+        >باشگاه رانندگان</a
+      >
       <a class="cursor-pointer text-[15px] text-gray-500 mr-7">پنل سازمانی</a>
       <a class="cursor-pointer text-[15px] text-gray-500 mr-7">بلاگ</a>
       <div
@@ -161,7 +163,8 @@ export default {
 };
 </script>
 <style scoped>
-div , a{
+div,
+a {
   font-family: Vazir;
 }
 </style>
