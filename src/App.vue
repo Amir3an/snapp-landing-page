@@ -21,6 +21,10 @@ export default {
   font-family: Vazir;
   src: url(assets/font/Vazir-FD.woff);
 }
+@font-face{
+  font-family : iran-sans;
+  src: url(assets/font/irsans.ttf)
+}
 #app {
   width: 100%;
   padding: 0;
