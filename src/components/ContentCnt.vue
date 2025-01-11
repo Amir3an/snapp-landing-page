@@ -18,7 +18,7 @@
           <input
             type="text"
             class="w-[50%] h-12 text-base bg-fixed bg-green-600 border-b-1 border-white cursor-text outline-none text-white"
-            placeholder="09×××××6789"
+            placeholder="9876×××××09"
           />
           <button
             class="w-[30%] text-xl h-11 rounded-lg font-semibold text-green-400 bg-white mr-4"
