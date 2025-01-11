@@ -4,27 +4,28 @@
   >
     <div class="flex items-center flex-col justify-center w-[50%] mt-16">
       <div class="w-[600px]">
-      <p class="text-right font-bold text-white text-3xl">
-        تجربه‌ی زندگی راحت‌تر، سریع‌تر و به‌صرفه‌تر<br />
-        با سوپراپلیکیشن اسنپ!
-      </p>
-      <p class="text-right mt-10 text-white text-xl">
-        از درخواست خودرو گرفته تا سفارش غذا، خرید سوپرمارکتی، خرید بلیط سفر،<br />
-        رزرو هتل و ... را میتوانید با اسنپ انجام دهید.
-      </p>
+        <p class="text-right font-bold text-white text-3xl">
+          تجربه‌ی زندگی راحت‌تر، سریع‌تر و به‌صرفه‌تر<br />
+          با سوپراپلیکیشن اسنپ!
+        </p>
+        <p class="text-right mt-10 text-white text-xl">
+          از درخواست خودرو گرفته تا سفارش غذا، خرید سوپرمارکتی، خرید بلیط
+          سفر،<br />
+          رزرو هتل و ... را میتوانید با اسنپ انجام دهید.
+        </p>
 
-      <div class="flex w-[90%] mt-12">
-        <input
-          type="text"
-          class="w-[50%] h-12 text-xl bg-fixed bg-green-600 border-b-1 border-white cursor-text outline-none"
-          placeholder="09×××××6789"
-        />
-        <button
-          class="w-[30%] text-xl h-11 rounded-lg font-semibold text-green-400 bg-white mr-4"
-        >
-          ارسال لینک
-        </button>
-      </div>
+        <div class="flex w-[90%] mt-12">
+          <input
+            type="text"
+            class="w-[50%] h-12 text-xl bg-fixed bg-green-600 border-b-1 border-white cursor-text outline-none"
+            placeholder="09×××××6789"
+          />
+          <button
+            class="w-[30%] text-xl h-11 rounded-lg font-semibold text-green-400 bg-white mr-4"
+          >
+            ارسال لینک
+          </button>
+        </div>
       </div>
 
       <button
