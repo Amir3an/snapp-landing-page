@@ -17,6 +17,10 @@ export default {
 </script>
 
 <style>
+@font-face {
+  font-family: Vazir;
+  src: url(assets/font/Vazir-FD.woff);
+}
 #app {
   width: 100%;
   padding: 0;
