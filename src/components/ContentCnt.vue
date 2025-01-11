@@ -2,12 +2,13 @@
   <div
     class="flex font-yekan items-center justify-evenly w-[100%] h-[524px] bg-green-600"
   >
-    <div class="flex items-center flex-col justify-center w-[600px] mt-12">
-      <p class="text-right font-bold text-white text-4xl">
+    <div class="flex items-center flex-col justify-center w-[50%] mt-16">
+      <div class="w-[600px]">
+      <p class="text-right font-bold text-white text-3xl">
         تجربه‌ی زندگی راحت‌تر، سریع‌تر و به‌صرفه‌تر<br />
         با سوپراپلیکیشن اسنپ!
       </p>
-      <p class="text-right mt-10 text-white text-2xl">
+      <p class="text-right mt-10 text-white text-xl">
         از درخواست خودرو گرفته تا سفارش غذا، خرید سوپرمارکتی، خرید بلیط سفر،<br />
         رزرو هتل و ... را میتوانید با اسنپ انجام دهید.
       </p>
@@ -24,9 +25,10 @@
           ارسال لینک
         </button>
       </div>
+      </div>
 
       <button
-        class="w-[45%] py-3 mt-10 border-1 border-white font-bold text-white rounded-md"
+        class="w-[260px] py-3 mt-10 border-1 border-white font-bold text-white rounded-md"
       >
         ورود به وب اپلیکیشن اسنپ
       </button>
